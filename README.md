@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oscar Galeana</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
+- 🔭 I’m currently studying at the **Instituto Tecnológico y de Estudios Superiores de Monterrey**
+
+- 🌱 I'm currently in the **Oracle one next education program**
+
 - 👨‍💻 All of my projects are available at [https://github.com/OscarGaleana?tab=repositories](https://github.com/OscarGaleana?tab=repositories)
 
 - 📫 How to reach me **rgaleanaoscar@gmail.com**
